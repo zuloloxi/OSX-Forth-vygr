@@ -14,4 +14,4 @@ Run with:
 
 On seeing the prompt enter WORDS to list all available words.
 
-## Import [OSX-Forth]((https://github.com/vygr/OSX-Forth)) from [Chris Hinsley - vygr](https://github.com/vygr) repository.
+## Import [OSX-Forth](https://github.com/vygr/OSX-Forth) from [Chris Hinsley - vygr](https://github.com/vygr) repository.
